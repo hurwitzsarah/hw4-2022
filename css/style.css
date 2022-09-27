@@ -126,7 +126,7 @@ div.skip a:focus {
 
 /* Step 3: Write selector/rule property to style all elements when in focus*/
 *:focus {
-  border: 2px solid black
+  border: 2px solid black;
 }
 
 /* Step 4: Write selector/rule property to style the container */
